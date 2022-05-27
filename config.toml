@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://gofcoe.github.io/ds_team_blog'
 languageCode = 'en-us'
-title = 'Smart Data Foundry'
+title = 'Smart Data Foundry | Data Science Blog'
 theme = "beautifulhugo"
 
 [Params]
