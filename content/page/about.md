@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-05-26T14:29:53+01:00
-draft: true
+draft: false
 ---
 
 Hi! This is the blog for the Data Science Team at the Smart Data Foundry.
